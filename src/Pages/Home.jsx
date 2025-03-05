@@ -1,9 +1,10 @@
 import React from 'react';
+import Bannar from '../Components/Bannar';
 
 const Home = () => {
     return (
         <div>
-            <h3>this is home page</h3>
+            <Bannar></Bannar>
         </div>
     );
 };
